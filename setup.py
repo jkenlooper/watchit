@@ -14,9 +14,10 @@ setup(
     name=name,
     version=version,
     author='Jake Hickenlooper',
-    author_email='jake@bottlerocket.net',
+    author_email='jake@weboftomorrow.com',
     description="Watch a directory for file changes and exit",
     long_description=read('README.rst'),
+    url="https://github.com/jkenlooper/watchit",
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Intended Audience :: Developers',
