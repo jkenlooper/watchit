@@ -19,3 +19,9 @@ Issues
 
 It stops when doing a `ctrl-c` but doesn't exit.  The workaround right now is
 to use `ctrl-z` and then `kill %1`.  
+
+
+Other tools
+=============
+
+- http://entrproject.org
